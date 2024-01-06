@@ -4,7 +4,7 @@ In this repository, we will learn how to use Apache Kafka Producer and Consumer.
 
 ## Kafka Installation
 
-Clone the repository
+Clone the GitHub repository
 
 ```bash
 git clone https://github.com/Tomdieu/kafka-tutorial.git
