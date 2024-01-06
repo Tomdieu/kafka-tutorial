@@ -1,6 +1,6 @@
 # Kafka Tutorial
 
-In this repository, we will learn how to use Kafka.
+In this repository, we will learn how to use Apache Kafka Producer and Consumer.
 
 ## Kafka Installation
 
